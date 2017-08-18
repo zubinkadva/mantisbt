@@ -1,9 +1,17 @@
 # Mantis Bug Tracker (BT) v1.3-custom
 
-A case study on Free and Open Source Softwares (FOSS) as part of my third semester (second year) of Master Of Computer Applications (MCA).
+# When?
+3rd semester - 2nd year, Master Of Computer Applications (MCA), 2013
 
-It uses PHP as front end and MySQL for back end storage.
+# What?
+- A case study and an attempt to customize and explore the Mantis Bug Tracking system as a Free and Open Source Software (FOSS)
 
-It contains a little customization done when exploring this system.
+# Technologies?
+- Mantis
+- PHP
+- MySQL
+- HTML
+- CSS
+- Javascript
 
-Note: This has no affiliation with the actual system whatsoever.
+*Note: This has no affiliation with the actual system whatsoever.*
